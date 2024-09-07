@@ -7,8 +7,9 @@ This project allows you to manage contacts using either MySQL or FreshSales CRM.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/interactly.git
-    cd interactly
+    git clone https://github.com/Titli007/freshsales-CRM-management.git
+    cd freshsales-CRM-management
+
     ```
 
 2. Install the dependencies:
